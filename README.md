@@ -1,10 +1,5 @@
 # 🛒 E-Commerce Data Analysis Using SQL
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![Queries](https://img.shields.io/badge/Queries-39-green)
-![Records](https://img.shields.io/badge/Records-7095-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 > An end-to-end SQL analysis of an e-commerce database that answers real business questions on revenue, customers, products, cities and time trends.
 
 ---
