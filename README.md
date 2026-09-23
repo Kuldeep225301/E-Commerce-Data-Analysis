@@ -312,6 +312,6 @@ LIMIT 10;
 ## 👤 Author
 
 **Your Name**
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/kuldeep-kumar-a82833269/)
 
 ⭐ If you found this project useful, please give it a star!
